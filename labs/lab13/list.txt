@@ -1,0 +1,10 @@
+./.Xauthority.gz
+./num.cpp
+./arch1.sh
+./list.txt
+./num2.sh
+./test1.sh
+./.xsession-errors.gz
+./num.sh
+./a.out
+./.zsh_history
